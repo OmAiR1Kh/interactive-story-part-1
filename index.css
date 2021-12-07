@@ -40,10 +40,11 @@ p {
 
 header {
     position: relative;
+    text-align: center;
 }
 
 header img {
-    width: 100%;
+    width: 95%;
     height: 500px;
     opacity: 0.9;
 }
@@ -299,4 +300,7 @@ header div h3 {
 
 footer {
     margin-top: 120px;
+}
+footer p{
+    font-size: .88rem;
 }
